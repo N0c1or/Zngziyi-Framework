@@ -30,8 +30,7 @@ Zngziyi 是一款基于Rust语言开发的高级免杀载荷生成框架，专�
 ### 🕵️ 混淆技术
 
 1. **UUID混淆**
-
-   利用UUID编码混淆加密后的shellcode
+  利用UUID编码混淆加密后的shellcode
 
 2. **word混淆**
    利用大量单词混淆加密后的shellcode
